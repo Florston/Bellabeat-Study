@@ -2,6 +2,10 @@
 
 <p>Analyzing Fitbit Watch data from April 2016 - May 2016 for the Bellabeat app and subscription service.</p>
 
+![da188ab1a4d6d0861f869e10c64cfd93](https://github.com/user-attachments/assets/56f5099e-974b-4325-b666-5b3bae36b02d) 
+
+![d5cd09387aaa07062107f5b34faa8cc4](https://github.com/user-attachments/assets/2cfb02b2-bf7f-4a1c-937d-7d3eca0e060b)
+
 <p><b>Summary of Insights</b></p>
 
 
@@ -15,6 +19,5 @@
 <li>Features such as step tracking, heart rate, and weight should be marketed more toward our more active users. These features would be good for people in fitness, outdoor sports, hiking, etc.</li></ul>
 <li>The app should add features such as goals and highlights to help keep our customers motivated on their fitness or weight loss journeys.</li></ul>
 <li>The Leaf bracelet tracker should also have different color bands to allow for more customization and choice for the consumer. This can be sold at a relatively low cost, $5 - $10 for rubber bands and $20 - $30 for stainless steel or mesh bands.</li></ul>
+  
 
-![da188ab1a4d6d0861f869e10c64cfd93](https://github.com/user-attachments/assets/56f5099e-974b-4325-b666-5b3bae36b02d)  
-![d5cd09387aaa07062107f5b34faa8cc4](https://github.com/user-attachments/assets/2cfb02b2-bf7f-4a1c-937d-7d3eca0e060b)
